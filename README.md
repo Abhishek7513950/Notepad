@@ -1,2 +1,2 @@
 # Notepad
-Notepad Clone : save your here
+Notepad Clone : Save your notes here
